@@ -13,8 +13,8 @@ class ElkTestApplicationTests {
 
 	@Test
 	public void test1() {
-		logger.info("logback的日志信息过来了");
-		logger.error("logback的错误信息过来了");
+		logger.info("logback的日志信息过来了1");
+		logger.error("logback的错误信息过来了2");
 	}
 
 }
